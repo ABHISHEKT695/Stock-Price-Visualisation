@@ -1,0 +1,21 @@
+Stock price visualization
+
+
+TODO::::
+
+1. Pick any listed stock that you like ( the company should be listed for atleast 10+ years). Using investpy, extract its 11 year closing values - From Jan 2010 to Dec 2020.
+
+2. Get the date and closing value - rest of the data is not required
+
+3. Sort the dataset on date time and filter “Date” and “Close” columns
+
+4. Plot and visualize the data with any library like matplotlib.pyplot
+
+
+
+Build Prediction model
+
+5. Build LSTM(Long Short-Term Memory network) model for prediction
+Train LSTM model with data upto 31 Dec 2019 and predict the stock price for 2020.
+
+6. Plot the predicted stock price with actual stock price
